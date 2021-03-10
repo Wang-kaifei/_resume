@@ -4,7 +4,7 @@ layout: default
 
 # 王凯菲
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="picture1.png">
   
   
 Candidate Master  
@@ -16,7 +16,6 @@ No.6 Kexueyuan South Road Zhongguancun, Beijing, China, 100190
 Email: [wangkaifei20g@ict.ac.cn](mailto:wangkaifei20g@ict.ac.cn)  
 
 welcome to my: [github](https://github.com/Wang-kaifei)
-
 
  
 ## Education 
