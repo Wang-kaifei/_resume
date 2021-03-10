@@ -4,7 +4,7 @@ layout: default
 
 # 王凯菲
 
-<img class="profile-picture" src="picture1.png">
+<img class="profile-picture" src="picture1.jpg">
   
   
 Candidate Master  
@@ -22,6 +22,7 @@ welcome to my: [github](https://github.com/Wang-kaifei)
 
 2016.08 - 2020.07:  Bachelor,School of computer science and technology, Xidian University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;•rank: 9 / 541, GPA: 3.75 / 4  
+   
 2020.09 - Now:        Institute of Computing Technology, Chinese Academy of Sciences<br>
 
 
