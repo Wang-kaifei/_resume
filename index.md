@@ -2,44 +2,84 @@
 layout: default
 ---
 
-## About Me
+# 王凯菲
 
 <img class="profile-picture" src="sherlock.jpg">
+  
+  
+Candidate Master  
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Institute of Computing Technology, Chinese Academy of Sciences  
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+No.6 Kexueyuan South Road Zhongguancun, Beijing, China, 100190  
+
+Email: [wangkaifei20g@ict.ac.cn](mailto:wangkaifei20g@ict.ac.cn)  
+
+welcome to my: [github](https://github.com/Wang-kaifei)
+
+
+ 
+## Education 
+
+2016.08 - 2020.07:  Bachelor,School of computer science and technology, Xidian University<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•rank: 9 / 541, GPA: 3.75 / 4  
+2020.09 - Now:        Institute of Computing Technology, Chinese Academy of Sciences<br>
+
+
+
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Bioinformatics Algorithm  
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Publications 
 
-Here is a table
+ 
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+* GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory 
 
-Here is a horizontal rule
+  Zhengcong Fei, Kaifei Wang, Hao Chi  
+  
+  **Proteomics** 
+  
+  [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
+
+
+
+## Honors & Awards
+
+-----|-------
+2020| Outstanding Graduate Student at Xidian University 
+2019| The 2019 ICPC China Shaaxi Provincial Programming Contest:  Bronze Medal
+2019| China Undergraduate Mathematical Contest in Modeling:  Second Prize
+2018| China National Scholarship 
+2018| American College Students Mathematical Contest In Modeling:  Meritorious Winner
+2017| CAMCM Mathematical Contest In Modeling:  Special Award Nomination
+2017| The 9th national student mathematics competition:  Second Prize
+
+
+## Skills
+
+* Familiar with  C++，python
+
+* Know  C, JAVA, MATLAB and LaTeX
+
+* CET-6: 504; CET-4: 548
+ 
+
+
+
 
 ---
 
-Here is a blockquote
 
-> To a great mind, nothing is little
+Last updated on Mar 10, 2021
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+---
+
+
+
