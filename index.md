@@ -21,7 +21,7 @@ welcome to my: [github](https://github.com/Wang-kaifei)
 ## Education 
 
 2016.08 - 2020.07:  Bachelor,School of computer science and technology, Xidian University<br>
-&nbsp;&nbsp;&nbsp;&nbsp;•rank: 9 / 541, GPA: 3.75 / 4  
+&nbsp;&nbsp;&nbsp;&nbsp; --rank: 9 / 541, GPA: 3.75 / 4  
    
 2020.09 - Now:        Institute of Computing Technology, Chinese Academy of Sciences<br>
 
@@ -41,11 +41,10 @@ Bioinformatics Algorithm
 
 * GameTag: A New Sequence Tag Generation Algorithm Based on Cooperative Game Theory 
 
-  Zhengcong Fei, Kaifei Wang, Hao Chi  
+  Zhengcong Fei, **Kaifei Wang**, Hao Chi  
   
   **Proteomics** 
-  
-  [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.202000021?af=R)]  [[code](https://github.com/feizc/GameTag)] 
+ 
 
 
 
@@ -59,6 +58,14 @@ Bioinformatics Algorithm
 2018| American College Students Mathematical Contest In Modeling:  Meritorious Winner
 2017| CAMCM Mathematical Contest In Modeling:  Special Award Nomination
 2017| The 9th national student mathematics competition:  Second Prize
+
+
+## Projects
+* Information Retrieval System Based on BM25 Model
+* Mass sorting of floating-point numbers with limited memory capacity
+* Automatic sign language recognition application
+
+
 
 
 ## Skills
