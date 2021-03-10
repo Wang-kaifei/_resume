@@ -65,7 +65,7 @@ Bioinformatics Algorithm
 
 * Familiar with  C++，python
 
-* Know  C, JAVA, MATLAB and LaTeX
+* Know  C, JAVA and LaTeX
 
 * CET-6: 504; CET-4: 548
  

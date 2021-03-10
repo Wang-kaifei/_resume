@@ -1,6 +1,6 @@
 title: Homepage
-url: "https://ankitsultana.com"
-baseurl: "/_resume"
+#url: "https://ankitsultana.com"
+#baseurl: "/_resume"
 
 markdown: kramdown
 remote_theme: ankitsultana/researcher@gem
