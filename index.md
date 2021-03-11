@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 王凯菲
+# Kaifei Wang (王凯菲)
 
 <img class="profile-picture" src="picture1.jpg">
   
@@ -61,12 +61,24 @@ Bioinformatics Algorithm
 
 
 ## Projects
-* Information Retrieval System Based on BM25 Model
-* Mass sorting of floating-point numbers with limited memory capacity
-* Automatic sign language recognition application
+### Secondary database search method based on sequence tag strategy
+
+* Proposes an iterative search method, which is helpful to solve the problem of low identification rate and time-consuming in metaproteomics and protein genomics domain of traditional protein search engine.
+* Prepare to submit to **Journal of proteome**.  
+
+### Information Retrieval System Based on BM25 Model (python)
+
+* Use the BM25 model to complete the rerank of the query results, test it on the TREC2019 sub dataset, and the NDCG@10 index is 0.1675.  
 
 
+### Mass sorting of floating-point numbers with limited memory capacity (C++)
 
+* It is required to sort 250 million decimal random floating-point numbers under the limit of 512MB memory usage.  
+* Using codec technology, loser tree algorithm and multi-threading ideas, generate a 4.28GB dataset randomly, test the program under the hardware conditions of a 2.30GHz quad-core CPU, and all tasks can be completed in 77 seconds.  
+
+### Automatic sign language recognition application (python)  
+
+* The SIFT algorithm was used to extract sign language features based on mobile phone camera, and then LIBSVM was used to recognize them.
 
 ## Skills
 
