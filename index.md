@@ -65,7 +65,7 @@ Bioinformatics Algorithm
 ### Mass sorting of floating-point numbers with limited memory capacity (C++)
 
 * It is required to sort 250 million decimal random floating-point numbers under the limit of 512MB memory usage.  
-* Using codec technology, loser tree algorithm and multi-threading ideas, generate a 4.28GB dataset randomly, test the program under the hardware conditions of a 2.30GHz quad-core CPU, and all tasks can be completed in 77 seconds. 
+* Randomly generate a 4.28GB dataset, and then use codec technology, loser tree algorithm and multi-threaded ideas to achieve all functions. Test the program under the hardware condition of 2.30GHz quad-core CPU, all tasks can be completed in 77 seconds.
 
 ### Secondary database search method based on sequence tag strategy
 
